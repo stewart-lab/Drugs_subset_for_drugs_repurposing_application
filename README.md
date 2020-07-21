@@ -16,6 +16,6 @@ Processing includes Java programs and Linux commands. Please see Documentation/D
 
 Java version used for development: JavaSE-1.8.  
 
-Authors: Kalpana Raja  
+Author: Kalpana Raja  
 
 Affiliation: Morgridge Institute for Research, Madison, WI, USA
