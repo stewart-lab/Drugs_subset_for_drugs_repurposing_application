@@ -8,7 +8,7 @@ The resource files should be downloaded from CTD, NDF-RT, DrugBank and PharmGKB.
 
 ---- RUN IN AN IDE ----   
 
-The entire project should be pulled into Java IDE, such as eclipse. For execution, please see Documentation/Drugs_subset_for_drugs_repurposing_application.docx.   
+The entire project should be pulled into Java IDE, such as eclipse. For execution, please see https://github.com/stewart-lab/Drugs_subset_for_drugs_repurposing_applicationDocumentation/Drugs_subset_for_drugs_repurposing_application.docx.   
 
 ---- COMPILE AND RUN ON THE COMMAND LINE ----   
 
